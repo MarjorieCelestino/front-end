@@ -35,7 +35,7 @@
   </div>
 <!-- Map --->
   <div id="map">
-    
+    <?php include 'map.php'; ?>
   </div>
 </main>
 <!-- Footer --->
