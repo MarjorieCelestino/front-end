@@ -16,12 +16,8 @@
     <title>Dark Series</title>
   </head>
   <body>
-    
-<header>
-<!-- Menu --->
-<nav >
-</nav>
-</header>
+<!-- Header --->   
+<?php include 'header.php'; ?>
 
 <main>
 <!-- Home --->
@@ -43,8 +39,8 @@
     
   </div>
 </main>
-<footer>
-  
-</footer>
+<!-- Footer --->
+<?php include 'footer.php'; ?>
+
 </body>
 </html>

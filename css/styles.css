@@ -1,0 +1,5 @@
+body{
+	/* use of !important to override boostrap default css */
+	font-family: 'Montserrat', sans-serif !important;
+	letter-spacing: 2px;
+}
