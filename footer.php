@@ -1,3 +1,3 @@
 <footer class="text-center">
-	<p><?php echo $ano_atual = date('Y'); ?></p>
+	<p><?php echo date('Y'); ?></p>
 </footer>
