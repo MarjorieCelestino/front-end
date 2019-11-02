@@ -22,14 +22,12 @@
 
 <main>
 <!-- Home --->
-	<div>
-		<div id="home-slider">
-			<?php include 'home.php'; ?>
-		</div>
+	<div id="container-fluid home-slider" style="padding: 0px;">
+		<?php include 'home.php'; ?>
 	</div>
 <!-- Introduction --->
-	<div class="intro-content">
-		
+	<div class="container intro-content">
+		<?php include 'introduction.php'; ?>
 	</div>
 <!-- Form --->
   <div class="form-content">
