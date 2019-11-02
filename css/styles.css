@@ -130,3 +130,18 @@ footer{
 	color: white;
 	padding-top: 15px;
 }
+
+/**
+ * Responsive ============================================================================================================
+ */
+@media (max-width: 1000px){
+
+	.into-title{
+		margin-right: 0%;
+	}
+
+	.list-info img{
+		margin-bottom: 20px;
+	}
+
+}
