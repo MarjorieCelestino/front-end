@@ -22,16 +22,16 @@
 
 <main>
 <!-- Home --->
-	<div id="container-fluid home-slider" style="padding: 0px;">
+	<div id="home" class=" home-slider container-fluid" style="padding: 0px;">
 		<?php include 'home.php'; ?>
 	</div>
 <!-- Introduction --->
-	<div class="container intro-content">
+	<div id="introduction" class="container intro-content">
 		<?php include 'introduction.php'; ?>
 	</div>
 <!-- Form --->
-  <div class="form-content">
-    
+  <div id="form" class="form-content text-center">
+    <?php include 'form.php'; ?>
   </div>
 <!-- Map --->
   <div id="map">
