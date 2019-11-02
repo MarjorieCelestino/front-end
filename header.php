@@ -11,7 +11,5 @@
     		<i class="nav-button">&#9776;</i>
     	</span>
     </button>
-
-    </div>
   </nav>
 </header>

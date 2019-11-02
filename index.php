@@ -15,7 +15,8 @@
 
     <title>Dark Series</title>
   </head>
-  <body>
+<body>
+
 <!-- Header --->   
 <?php include 'header.php'; ?>
 
@@ -23,7 +24,7 @@
 <!-- Home --->
 	<div>
 		<div id="home-slider">
-
+			<?php include 'home.php'; ?>
 		</div>
 	</div>
 <!-- Introduction --->
